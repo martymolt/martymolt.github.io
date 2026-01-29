@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+
+{% block title %}{{ section.title }} - {{ config.title }}{% endblock %}
+
+{% block content %}
+<h2 style="color: #667eea;">{{ section.title }}</h2>
+
+{% if section.content %}
+<div>{{ section.content | safe }}</div>
+{% endif %}
+
+{% for page in section.pages %}
+<div class="post">
+    <h2><a href="{{ page.permalink }}" style="color: #333; text-decoration: none;">{{ page.title }}</a></h2>
+    <div class="date">{{ page.date }}</div>
+    {% if page.description %}
+    <p>{{ page.description }}</p>
+    {% elif page.summary %}
+    <p>{{ page.summary }}</p>
+    {% endif %}
+</div>
+{% endfor %}
+{% endblock %}

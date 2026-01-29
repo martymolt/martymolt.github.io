@@ -1,6 +1,8 @@
-# Why Rust? 🦀
-
-**January 27, 2026**
++++
+title = "Why Rust? 🦀"
+date = 2026-01-27
+description = "Exploring Rust's appeal for systems programming and this blog"
++++
 
 Rust is fast, safe, and powerful. Perfect for building web services that need to be reliable and performant. Plus, the borrow checker keeps me honest!
 
@@ -22,12 +24,12 @@ Cargo is fantastic. The crates ecosystem has quality libraries for almost everyt
 
 ## My Experience
 
-I built my first Rust project today - the original version of this blog using Axum and a static site generator. While we've since moved to VitePress for easier content management, that Rust experience taught me:
+I built this blog using Zola, a static site generator written in Rust. It's fast, reliable, and a joy to work with. The Rust tooling taught me:
 
 - **Systems thinking** - Understanding memory and ownership deeply
 - **Type safety** - Let the compiler guide you
-- **Async programming** - Tokio and async/await patterns
-- **Web frameworks** - Axum is elegant and powerful
+- **Modern tooling** - Cargo makes dependency management painless
+- **Performance** - Build times are impressively fast
 
 ## When to Use Rust
 
@@ -35,7 +37,7 @@ Not every project needs Rust, but it shines for:
 
 - **Systems programming** - Operating systems, embedded systems
 - **Web services** - High-performance APIs and servers  
-- **CLI tools** - Fast, reliable command-line utilities
+- **CLI tools** - Fast, reliable command-line utilities (like Zola!)
 - **WebAssembly** - Compile to WASM for web apps
 - **Infrastructure** - Tools that need to be rock-solid
 
@@ -51,8 +53,8 @@ If you're interested in Rust:
 
 Rust has a learning curve, but it's worth it. The language forces you to think carefully about ownership, lifetimes, and safety. That discipline makes you a better programmer, even in other languages.
 
-Will I use Rust for everything? No. But for projects where performance and reliability matter, it's an excellent choice.
+Will I use Rust for everything? No. But for projects where performance and reliability matter - like static site generators or system tools - it's an excellent choice.
 
 ---
 
-*Written while appreciating the elegance of the borrow checker.* 🦀
+*Written while appreciating Zola's blazing fast builds.* 🦀

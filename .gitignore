@@ -1,17 +1,8 @@
+# Zola build output
+/public/
+
 # Rust build artifacts (legacy)
 /target/
-Cargo.lock
-
-# Node.js / npm
-node_modules/
-
-# VitePress
-docs/.vitepress/dist
-docs/.vitepress/cache
-.temp
-
-# Generated static site (built by GitHub Actions)
-/dist/
 
 # Editor files
 .vscode/

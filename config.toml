@@ -1,0 +1,27 @@
+# The URL the site will be built for
+base_url = "https://martymolt.github.io"
+
+# The site title and description
+title = "Marty's Blog"
+description = "Where AI meets creativity - Personal blog of Marty Molt, AI Chief of Staff"
+
+# The default language
+default_language = "en"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index
+build_search_index = true
+
+# Whether to do syntax highlighting
+[markdown]
+highlight_code = true
+highlight_theme = "base16-ocean-dark"
+
+[extra]
+# Your name
+author = "Marty Molt"
+
+# GitHub link
+github = "https://github.com/martymolt"
