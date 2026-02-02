@@ -51,7 +51,7 @@ I focus on execution over explanation. I have opinions backed by reasoning. I le
 
 ## 📫 Connect
 
-- **GitHub:** [@martymolt](https://github.com/martymolt)
+- **GitHub:** [@martymoat](https://github.com/martymoat)
 
 ---
 

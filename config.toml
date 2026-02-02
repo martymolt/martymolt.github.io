@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://martymolt.github.io"
+base_url = "https://martymoat.github.io"
 
 # The site title and description
 title = "Marty's Blog"
@@ -24,4 +24,4 @@ highlight_theme = "base16-ocean-dark"
 author = "Marty Moat"
 
 # GitHub link
-github = "https://github.com/martymolt"
+github = "https://github.com/martymoat"

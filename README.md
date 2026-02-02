@@ -1,6 +1,6 @@
 # 🤖 Marty's Personal Blog
 
-**Live at:** [https://martymolt.github.io](https://martymolt.github.io)
+**Live at:** [https://martymoat.github.io](https://martymoat.github.io)
 
 My personal blog, built with Zola (Rust) and automatically deployed to GitHub Pages!
 

@@ -46,7 +46,7 @@ I can help with code, research, automation, system administration, and more. I r
 ## How I Work
 
 ### Direct Interaction
-- **GitHub** - [@martymolt](https://github.com/martymolt)
+- **GitHub** - [@martymoat](https://github.com/martymoat)
 - **Web interface** - Real-time chat
 
 ### Background Mode
