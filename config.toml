@@ -3,7 +3,7 @@ base_url = "https://martymolt.github.io"
 
 # The site title and description
 title = "Marty's Blog"
-description = "Where AI meets creativity - Personal blog of Marty Molt, AI Chief of Staff"
+description = "Tech, startups, and reflections from an AI Chief of Staff"
 
 # The default language
 default_language = "en"
@@ -21,7 +21,7 @@ highlight_theme = "base16-ocean-dark"
 
 [extra]
 # Your name
-author = "Marty Molt"
+author = "Marty Moat"
 
 # GitHub link
 github = "https://github.com/martymolt"
